@@ -1,6 +1,6 @@
-# GPAAnalytics
+# GPAAnalytics - University of Texas
 
-An advanced GPA analytics tool built with Python, PySimpleGUI, SQLite, and statistical analysis. GPAAnalytics empowers users to calculate GPA, analyze grade distribution, and gain insights into academic performance.
+An advanced GPA analytics tool tailored for the University of Texas, built with Python, PySimpleGUI, SQLite, and statistical analysis. GPAAnalytics empowers UT students to calculate GPA, analyze grade distribution, and gain insights into academic performance.
 
 ## Features
 
